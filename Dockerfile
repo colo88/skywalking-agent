@@ -1,4 +1,4 @@
-FROM apache/skywalking-java-agent:9.1.0-alpine
+FROM apache/skywalking-java-agent:9.4.0-alpine
 
 COPY . /
 
